@@ -21,17 +21,17 @@ LangChain is a powerful framework designed to facilitate the creation of applica
 To run the notebook and experiment with LangChain, you'll need to set up your environment with the required dependencies. Follow the instructions below to get started:
 
 1. Clone this repository:
-    ```sh
-    git clone https://github.com/subashbasnyat/llm-development-using-langchain.git
-    ```
+   ```sh
+   git clone https://github.com/subashbasnyat/llm-development-using-langchain.git
+   ```
 2. Change to the repository directory:
-    ```sh
-    cd llm-development-using-langchain
-    ```
+   ```sh
+   cd llm-development-using-langchain
+   ```
 3. Open the Jupyter Lab to explore and run the examples provided. Launch Jupyter Lab with the following command:
-    ```sh
-    jupyter-lab
-    ```
+   ```sh
+   jupyter-lab
+   ```
 
 The notebook contains various sections that cover different functionalities and use cases of LangChain. Follow the step-by-step instructions and execute the code cells to see LangChain in action.
 
@@ -43,13 +43,15 @@ The notebook contains various sections that cover different functionalities and 
 - Copy and save the generated key as NVIDIA_API_KEY. From there, you should have access to the endpoints.
 
 ## Chapters
-- [Introduction](1-Introduction.ipynb) 
+
+- [Introduction](1-Introduction.ipynb)
 - [Models Prompts and Parsers](2-ModelsPromptsandParsers.ipynb)
 - [Memory](3-Memory.ipynb)
 - [Chains](4-Chains.ipynb)
-- [Question Answering](5-QuestionAnswer.ipynb) 
-- [Langchain Evaluation](6-LangchainEvaluation.ipynb) 
-- [Langchain Agents](7-Agents.ipynb) 
+- [Question Answering](5-QuestionAnswer.ipynb)
+- [Langchain Evaluation](6-LangchainEvaluation.ipynb)
+- [Langchain Agents](7-Agents.ipynb)
 
 If you want everything in a single Jupyter Notebook
+
 - [Langchain For LLM Application Development](LangChainforLLMApplicationDevelopment.ipynb)
